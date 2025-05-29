@@ -1,5 +1,5 @@
 {
-  "name": "artclass",
+  "name": "Nxcy Palace",
   "version": "4.0.0",
   "description": "More than just a game site",
   "type": "module",
@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "you will have to find out",
   "dependencies": {
     "@titaniumnetwork-dev/ultraviolet": "^2.0.0",
     "@tomphttp/bare-server-node": "^2.0.2",
